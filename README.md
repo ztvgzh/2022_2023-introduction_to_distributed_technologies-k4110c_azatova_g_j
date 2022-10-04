@@ -1,0 +1,2 @@
+# 2022_2023-introduction_to_distributed_technologies-k4110c_azatova_g_j
+labs, courses
