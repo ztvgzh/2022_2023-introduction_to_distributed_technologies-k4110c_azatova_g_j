@@ -37,7 +37,8 @@ minikube kubectl -- port-forward service/vault 8200:8200
 ```
 
 # Схема 1
-
+<div align = "center"><img src=""></div> 
 # Схема 2
+<div align = "center"><img src=""></div> 
 
 
