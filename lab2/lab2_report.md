@@ -13,6 +13,7 @@ Author: Azatova Gulshad Jalgas kizi
 Lab: Lab2
 
 Date of create: 04.10.2022
+Date of finished: 19.11.2022
 
 # Развертывание веб сервиса в Minikube, доступ к веб интерфейсу сервиса. Мониторинг сервиса.  
 ## Ход работы 
