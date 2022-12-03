@@ -6,12 +6,6 @@ metadata:
     app: indfr
 spec:
   replicas: 2
-  minReadySeconds: 10
-  strategy:
-    rollingUpdate:
-      maxSurge: 1
-      maxUnavailable: 1
-    type: RollingUpdate
   selector:
     matchLabels:
       app: http-server
