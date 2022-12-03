@@ -23,8 +23,6 @@ Date of finished: 19.11.2022
 ```
 kubectl apply -f pod.yml  
 
-![Image text](img/l1.1.png)
-
 ```
 3. Проверяем статус пода  
  ```
