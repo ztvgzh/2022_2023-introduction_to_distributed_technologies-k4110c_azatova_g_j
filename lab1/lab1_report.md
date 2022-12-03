@@ -22,6 +22,9 @@ Date of finished: 19.11.2022
 2. Создаем под с помощью команды 
 ```
 kubectl apply -f pod.yml  
+
+![Image text](l1.1.png)
+
 ```
 3. Проверяем статус пода  
  ```
