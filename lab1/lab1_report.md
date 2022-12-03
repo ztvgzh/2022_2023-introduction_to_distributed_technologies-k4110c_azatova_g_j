@@ -22,6 +22,7 @@ Date of finished: 19.11.2022
 2. Создаем под с помощью команды 
 ```
 kubectl apply -f pod.yml  
+```
 <div align = "center"><img src="https://github.com/ztvgzh/2022_2023-introduction_to_distributed_technologies-k4110c_azatova_g_j/blob/main/lab1/img/l1.1.png"></div> 
 ```
 3. Проверяем статус пода  
