@@ -14,25 +14,8 @@ Lab: Lab4
 
 Date of create: 20.11.2022
 
-Date of finished: 25.11.2022
+Date of finished: 10.12.2022
 
-University: [ITMO University](https://itmo.ru/ru/)
-
-Faculty: [FICT](https://fict.itmo.ru)
-
-Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)
-
-Year: 2022/2023
-
-Group: K4113c
-
-Author: Goncalves Manuel
-
-Lab: Lab2
-
-Date of create: 24.11.2022
-
-Date of finished: 3.12.2022
 
 # Сети связи в Minikube, CNI и CoreDNS
 
