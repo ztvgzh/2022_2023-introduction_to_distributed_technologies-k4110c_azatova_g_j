@@ -64,6 +64,6 @@ minikube tunnel
 
  
 ## Схема
-<div align = ""></div> 
+<div align = "https://github.com/ztvgzh/2022_2023-introduction_to_distributed_technologies-k4110c_azatova_g_j/blob/main/lab3/img/ingress%20(2).png"></div> 
 
 
