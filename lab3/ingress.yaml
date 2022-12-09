@@ -1,0 +1,20 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: indfr
+spec:
+  tls:
+    - secretName: test-tls   
+      hosts:
+       - ztvgzh.com
+  rules:
+    - host: ztvgzh.com
+      http:
+       paths:
+        - path: /
+          pathType: Prefix
+          backend:
+            service:
+              name: indfr-service
+              port: 
+                number: 8080
