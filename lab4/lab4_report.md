@@ -21,7 +21,7 @@ Date of finished: 10.12.2022
 
 
 
-### Создание minikube cluster с 2 нодами aи установка CNI=calico plugin
+### Создание minikube cluster с 2 нодами и установка CNI=calico plugin
 ```
 minikube start --network-plugin=cni --cni=calico --nodes 2 --kubernetes-version=v1.24.0
 ```
